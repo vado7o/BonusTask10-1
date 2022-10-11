@@ -1,0 +1,15 @@
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\bin\Debug\net6.0\BonusTask1.exe
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\bin\Debug\net6.0\BonusTask1.deps.json
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\bin\Debug\net6.0\BonusTask1.runtimeconfig.json
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\bin\Debug\net6.0\BonusTask1.dll
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\bin\Debug\net6.0\BonusTask1.pdb
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.csproj.AssemblyReference.cache
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.AssemblyInfoInputs.cache
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.AssemblyInfo.cs
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.csproj.CoreCompileInputs.cache
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.dll
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\refint\BonusTask1.dll
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.pdb
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\BonusTask1.genruntimeconfig.cache
+C:\Users\pvb07\Desktop\GB\HW10\BonusTask1\obj\Debug\net6.0\ref\BonusTask1.dll
